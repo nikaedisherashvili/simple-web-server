@@ -34,10 +34,9 @@ bld/
 [Ll]og*/  
 .logs/
 
-#——————————————————————————————————————
-# Visual Studio & MSBuild generated
-#——————————————————————————————————————
-.vs/                   # VS 2015+
+
+# Visual Studio workspace cache
+.vs/
 Generated\ Files/
 *.msi
 *.exe
